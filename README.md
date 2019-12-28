@@ -6,6 +6,10 @@
 - clean code a little
 - recursive requests
 
+```bash
+pip install selenium
+pip install  bs4
+```
 
 ```python
     instance = Follower('email/phone','password')
