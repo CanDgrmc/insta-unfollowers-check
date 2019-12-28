@@ -7,8 +7,10 @@
 - recursive requests
 
 
+```python
     instance = Follower('email/phone','password')
     
     instance.signIn()
     
     instance.saveFollowers()
+```
